@@ -1,0 +1,3 @@
+[submodule "libimjanai"]
+	path = libimjanai
+	url = git@github.com:imjanai/libimjanai.git
